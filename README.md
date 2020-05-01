@@ -12,7 +12,7 @@ A summary of this district's schools is displated below, from the jupyter notebo
 Multiple comparisons were them made in order to elucidate any possible correllations between better student test performance and other factors like student body size, budget, and charter status.
 
 A summary of math scores by school by grade is below:
-<img src="mathScores.PNG" />
+<img src="/mathScores.PNG" />
 
 A summary of reading scores by school by grade is below:
 <img src="/readingScores.PNG" />
@@ -25,7 +25,12 @@ A direct comparison of District and Charter schools in the city were also compil
 
 <hr>
 <h2>Discussion</h2>
-Based on the rankings of Top and Bottom performing schools, the data seems to should that Charter schools tend to outperform District schools. This is most easily shown in the direct analysis between the two, where Charter schools outperform District schools in every caregory measured. However, further analysis is needed in order ot determine if other outlying factors weigh into the phenomenon (parental support, social status, etc.).
+Based on the rankings of Top and Bottom performing schools, the data seems to should that Charter schools tend to outperform District 
+schools. This is most easily shown in the direct analysis between the two, where Charter schools outperform District schools in every 
+caregory measured. However, further analysis is needed in order ot determine if other outlying factors weigh into the phenomenon 
+(parental support, social status, etc.).
 
-
-Based on all budget data, there seems to be a normal distribution in effectiveness of budget spent per student. In effect, the data reflects that student performance tapers off when too little or too much money is budgeted per student. This is best shown in the budget ranking analysis. However, further analysis is needed in order ot determine if other outlying factors weigh into the phenomenon (environmental conditions, other indv. school expenses, etc.).
+Based on all budget data, there seems to be a normal distribution in effectiveness of budget spent per student. In effect, the data 
+reflects that student performance tapers off when too little or too much money is budgeted per student. This is best shown in the budget 
+ranking analysis. However, further analysis is needed in order ot determine if other outlying factors weigh into the phenomenon 
+(environmental conditions, other indv. school expenses, etc.).
